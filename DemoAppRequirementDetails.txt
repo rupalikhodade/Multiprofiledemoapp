@@ -1,0 +1,14 @@
+Project Name: MultiProfileDemoApp
+Framework: Latavel
+PHP Version: PHP 8.2.x
+MySQL Version: MySQL 8.x
+Local URL: https://localdev-teamgit.multiprofiledemoapp.com
+
+
+MultiProfile Demo App
+    - user can register and login
+    - user can login with username and password
+    - user can create his personal and professinal profile
+    - Personal and professional profile can have differnt info and profile pictures
+    - From Settings user can set which profile will be visible to him after login; but default personal profile will be selected but user can change it to professional or personal at any time from this setting.
+    - User can switch between these profiles and see and update information
